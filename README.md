@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <a href="https://www.edaly.xyz/">me</a>
+    <a href="https://www.edaly.xyz/">me</a> .
     <a href="https://www.devtale.blog/posts">blog</a> .
     <a href="https://www.linkedin.com/in/edaly-ahmed/">linkedin</a> .
     <a href="https://x.com/edal_y">tweets</a>
