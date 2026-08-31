@@ -9,4 +9,4 @@
 
 Hi, I’m Ahmed 👋
 
-I care about what gets built and how it gets built. I like things that feel simple, work well, and can grow without losing their soul. I move quietly, think long-term, and write sometimes at [devtale](https://devtale.vercel.app/posts) short thoughts, long form, always honest.
+I care about what gets built and how it gets built. I like things that feel simple, work well, and can grow without losing their soul. I move quietly, think long-term, and write sometimes at [devtale](https://devtale.blog/posts) short thoughts, long form, always honest.
